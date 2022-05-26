@@ -1,8 +1,6 @@
 /*
 Program Description: Flood plains program to find what parts of land are flooded NEED RAND() between 60 and 100 for places  of information
 
-Author:              Jeremy Scott
-
 Input Variables:	water_level
 
 Process:             Take water_level and see if level of land in area is submerged in water
